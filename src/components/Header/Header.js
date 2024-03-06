@@ -32,7 +32,7 @@ const Header = () =>  (
       </li>        
     </Div2> */}
       <Div3>
-        <SocialIcons href="https://github.com/1-aditya-2">
+        <SocialIcons href="https://github.com/atulsingh-IIITK">
           <AiFillGithub size="3rem" />
         </SocialIcons>
         <SocialIcons href="https://www.linkedin.com/in/aditya-pratap-singh-a78511231">
