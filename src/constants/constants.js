@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Movie Bit',
     description: "Using React.js, javascript,Css created this website.Facilitated Movie Bits development,designing a responsive UI. Curate your next favorite movie with our recommendation, suggest the best movie",
-      image: '/images/moviebit.png',
+      image: '/images/moviebitHome.png',
       tags: ['Reactjs', 'Javascript', 'CSS', 'HTML'],
     source: 'https://github.com/atulsingh-IIITK/MovieBit',
     visit: 'https://movie-bit-git-main-atulsingh-iiitks-projects.vercel.app/',
