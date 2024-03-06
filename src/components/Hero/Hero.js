@@ -9,7 +9,7 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           <h6>Hey!, I am </h6>
-          Aditya Pratap Singh<br />
+          Atul Singh<br />
         </SectionTitle>
         <SectionText>
         A budding web developer with a passion for creative solutions.  Interested in learning new tech stacks and programming languages.
