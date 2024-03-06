@@ -1,21 +1,21 @@
 export const projects = [
   {
-    title: 'HostelBuddy',
-    description: "Using Node.js, Express & MySQL, created this website.It is effective in a hostel premise where students can share various items such as leftover medicines, food, assessories etc. You can create your account and them donate or recieve an item of your choice.",
-      image: '/images/i1.jpg',
-      tags: ['Node', 'MySQL', 'Express', 'CSS', 'HTML'],
-    source: 'https://github.com/1-aditya-2/HostelBuddy',
-    visit: 'https://google.com',
+    title: 'Movie Bit',
+    description: "Using React.js, javascript,Css created this website.Facilitated Movie Bits development,designing a responsive UI. Curate your next favorite movie with our recommendation, suggest the best movie",
+      image: '/images/moviebit.png',
+      tags: ['Reactjs', 'Javascript', 'CSS', 'HTML'],
+    source: 'https://github.com/atulsingh-IIITK/MovieBit',
+    visit: 'https://movie-bit-git-main-atulsingh-iiitks-projects.vercel.app/',
     id: 0,
   },
   {
-    title: 'CustomYum',
-    description: "This food recipe website is an online platform that provides a collection of diverse culinary recipes, offering users the opportunity to discover, learn, and prepare a wide range of dishes, catering to various tastes and dietary preferences. Even the recipes are systematically categorized.",
-    image: '/images/i4.png',
-    tags: ['React', 'Node', 'HTML', 'SCSS', 'JavaScript'],
-    source: 'https://github.com/1-aditya-2/food-recipe',
-    visit: 'https://food-recipe-peach.vercel.app/',
-    id: 1,
+    // title: 'CustomYum',
+    // description: "This food recipe website is an online platform that provides a collection of diverse culinary recipes, offering users the opportunity to discover, learn, and prepare a wide range of dishes, catering to various tastes and dietary preferences. Even the recipes are systematically categorized.",
+    // image: '/images/i4.png',
+    // tags: ['React', 'Node', 'HTML', 'SCSS', 'JavaScript'],
+    // source: 'https://github.com/1-aditya-2/food-recipe',
+    // visit: 'https://food-recipe-peach.vercel.app/',
+    // id: 1,
   },
   {
     title: 'Apoorva',
@@ -40,8 +40,7 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2021, text: 'Joined Indian Institute of Information Technology, Kottayam (IIITK)', },
-  { year: 2020, text: 'Passed class XI (92%)', },
-  { year: 2018, text: 'Passed class X (95%)', },
-  // { year: 2021, text: 'Started my coding journey', },
-  // { year: 2022, text: 'Created this website', },
+  { year: 2021, text: 'Passed class XII (78%)', },
+  { year: 2019, text: 'Passed class X (91%)', },
+  
 ];

@@ -44,7 +44,7 @@ const Technologies = () =>  (
           <ListTitle>Programming</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Java, C++, C, Python
+             C++, C, Python,Java
           </ListParagraph>
         </ListContainer>
       </ListItem>
