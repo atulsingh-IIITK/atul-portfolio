@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Apoorva',
     description:"This is the official website of Apoova (Techno-Cultural Fest) of our college, IIITK. It tells the timeline of the events, along with other details. Helped in creating this website along with some seniors.Used nextjs, css, javascript to particularly built the Hero and Description Section of the website.",
-    image: '/images/i2.png',
+    image: '/apoorv.png',
     tags: ['NextJs', 'Express', 'JavaScript', "CSS", "HTML"],
     source: 'https://github.com/atulsingh-IIITK/College-Fest-Website',
     visit: 'https://college-fest-website.vercel.app/',
